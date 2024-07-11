@@ -1,5 +1,7 @@
 # hcm-ai
 
+[Youtube Video](https://youtu.be/Am_pFktgIg0)
+
 #### 1. Domain Selection
 
 **Domain:** Health and Wellness
